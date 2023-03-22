@@ -21,7 +21,7 @@
 1. Клонировать проект в удобное место:
 
 ```sh
-git clone https://github.com/Whitev2/BetApi.git
+git clone https://github.com/Whitev2/bet-test-api.git
 ```
 
 2. Собрать и запустить контейнеры:
