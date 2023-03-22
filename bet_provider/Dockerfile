@@ -1,4 +1,4 @@
-FROM python:3.11
+FROM python:3.10
 
 LABEL version = '1'
 LABEL master = 'bet-provider'
