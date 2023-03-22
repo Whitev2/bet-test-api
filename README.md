@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=betapi&size=40&pause=1000&color=F7F7F7&width=435&lines=The+Bet+API)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=373737&background=91C5F4&center=true&vCenter=true&multiline=true&width=1080&height=80&lines=The+Bet+API)](https://git.io/typing-svg)
 
 ## Used technology
 - Python 3.10;
@@ -12,7 +12,8 @@
 
 <hr/>
 
-![image](templates/img.png)
+![image](templates/provider.png)
+![image](templates/user.png)
 
 <hr/>
 
@@ -69,6 +70,11 @@ docker-compose up
 <hr/>
 
 ### Описание функционала
+- Сервис позволяет просматривать активные ивенты
+- Сервис позволяет делать ставки на активные ивенты
+- Сервис позволяет просматривать свои ставки
+
+
 - Maker получает активные ивенты из Provider через endpoint url
 - При изменении состояния со стороны Provider - меняется статус у ставки
 - Обмен данными для изменения состояний реализован через aio-pika и RabbitMQ
