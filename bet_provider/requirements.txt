@@ -1,0 +1,4 @@
+passlib==1.7.4
+aio_pika
+fastapi==0.89.1
+uvicorn==0.20.0

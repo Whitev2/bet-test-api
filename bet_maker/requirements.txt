@@ -1,0 +1,15 @@
+aerich==0.7.1
+asyncpg==0.27.0
+sqlalchemy==1.4.46
+psycopg2-binary==2.9.5
+python-jose[cryptography]
+python-multipart
+bcrypt==4.0.1
+redis==4.4.2
+aio_pika
+httpx
+pydantic[email, dotenv]==1.10.4
+alembic==1.9.2
+passlib==1.7.4
+fastapi==0.89.1
+uvicorn==0.20.0
